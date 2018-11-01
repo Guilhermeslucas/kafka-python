@@ -58,3 +58,17 @@ I also added a script that downloads and runs kafka. You can run like this:
 ``` shell
 ./download_and_run.sh
 ```
+
+## Running Consumer and Producer
+
+It is really simple to run the producer and consumer. Just type:
+
+```
+python3 producer.py
+```
+
+In another terminal, run consumer.py:
+
+```
+python3 consumer.py
+```
