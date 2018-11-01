@@ -42,3 +42,19 @@ bin/kafka-server-start.sh config/server.properties
 ```
 
 Done. Now you have a local Kafka running on ```localhost:9092```.
+
+### Running via script
+
+I also added a script that downloads and runs kafka. You can run like this:
+
+- To downlaod and run:
+
+``` shell
+./download_and_run.sh dr
+```
+
+- Just run (If you have already downloaded):
+
+``` shell
+./download_and_run.sh
+```
