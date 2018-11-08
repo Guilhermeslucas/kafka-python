@@ -61,6 +61,12 @@ I also added a script that downloads and runs kafka. You can run like this:
 
 ## Running Consumer and Producer
 
+Before running the code, please install dependencies with:
+
+```
+pip install -r requirements.txt
+```
+
 It is really simple to run the producer and consumer. Just type:
 
 ```
